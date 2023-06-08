@@ -1,2 +1,2 @@
 #!/bin/bash
-play StarWarsIV.mp4
+telnet towel.blinkenlights.nl
